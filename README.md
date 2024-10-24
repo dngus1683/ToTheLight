@@ -52,4 +52,5 @@
 
 ## 플레이 영상
 
+![image](https://github.com/user-attachments/assets/3a17fea4-d944-4b46-825c-0241e24f2dc2)
 
