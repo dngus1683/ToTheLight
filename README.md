@@ -52,5 +52,5 @@
 
 ## 플레이 영상
 
-![image](https://github.com/user-attachments/assets/3a17fea4-d944-4b46-825c-0241e24f2dc2)
+[ToTheLight 영상.gif](https://github.com/dngus1683/ToTheLight/blob/master/ToTheLight%20%EC%98%81%EC%83%81.gif)
 
